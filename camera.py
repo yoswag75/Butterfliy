@@ -13,7 +13,7 @@ from googleapiclient.errors import HttpError
 import urllib.request
 
 def image_inspection_summary(image_path):
-    GOOGLE_API_KEY = 'AIzaSyBHhq8EjXKqTXXrNXoCZ0m4Mpi1iXbAkTs'
+    GOOGLE_API_KEY = #'api-key'
     genai.configure(api_key=GOOGLE_API_KEY)
     thumb = genai.upload_file(path=image_path)
     print(f"Uploaded file '{thumb.display_name}' as: {thumb.uri}")
