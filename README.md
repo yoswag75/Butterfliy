@@ -87,9 +87,8 @@ cd butterfliy
 
 3. **Run the Application**
 ```bash
-python main.py
-# or
-npm start
+
+Install the app and run in an android environment
 
 ```
 
