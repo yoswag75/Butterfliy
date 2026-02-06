@@ -83,12 +83,6 @@ cd butterfliy
 
 
 2. **Install Dependencies**
-```bash
-pip install -r requirements.txt
-# or
-npm install
-
-```
 
 
 3. **Run the Application**
