@@ -44,8 +44,6 @@ To empower a diverse global workforce, ButterFliy breaks language barriers.
 
 ## 🛠️ Tech Stack
 
-*(Please update this section with the specific technologies you used)*
-
 * **Frontend:** [e.g., React Native / Flutter / Streamlit]
 * **AI/ML:** [e.g., TensorFlow / PyTorch / OpenCV]
 * **NLP:** [e.g., Hugging Face Transformers / Google Translate API]
@@ -61,14 +59,6 @@ ButterFliy is not just a tool; it is a comprehensive solution redefining industr
 * **📈 Operational Efficiency:** Reduces inspection time by automating data entry and detection.
 * **🛡️ Improved Safety:** Catching defects early prevents catastrophic equipment failures.
 * **🌍 Accessibility:** Allowing technicians to work in their native language reduces miscommunication.
-
----
-
-## 📸 Screenshots
-
-| Login & Auto-Fill | Defect Detection | AI Report Generation |
-| --- | --- | --- |
-|  |  |  |
 
 ---
 
