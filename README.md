@@ -2,7 +2,7 @@
 
 **Transforming conventional inspections into next-generation AI solutions.**
 
-**ButterFliy** is an intelligent equipment inspection platform built during the **Catterpillar Hack-A-Thon**. Inspired by the metamorphosis of a caterpillar into a butterfly, this project symbolizes the evolution of industrial maintenance—moving from manual, error-prone checks to automated, AI-driven precision.
+**ButterFliy** is an intelligent equipment inspection platform built during the **Catterpillar Hack-A-Thon**. Inspired by the metamorphosis of a caterpillar into a butterfly, this project symbolizes the evolution of industrial maintenance-moving from manual, error-prone checks to automated, AI-driven precision.
 
 ---
 
